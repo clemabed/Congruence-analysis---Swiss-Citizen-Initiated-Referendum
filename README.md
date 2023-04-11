@@ -1,7 +1,7 @@
 # Congruence-analysis -- Swiss-Citizen-Initiated-Referendum
 
 
-Introduction :
+*Motivation :*
 
 Beyond their results, citizen-initiated referendums may have indirect effects on legislators. 
 Through them, citizens can draw their attention to a specific issue and get them to refocus and reposition themselves 
@@ -14,7 +14,7 @@ issues through an analysis of the temporal evolution of the positioning of insti
 (through the study of referendum results) as well as an analysis of political discourses before and after referendums.
 
 
-Preliminary analysis : 
+*Preliminary analysis : *
 
 We propose here an initial analysis of the congruence aspect of our project, as it is the first step that can attest 
 to the degree of relevance of our research project. These first results will allow a possible reframing of the questions,
